@@ -19,6 +19,14 @@ public class App {
 
         System.out.printf(ut.WHITE_BOLD+"%-30s%-50s%-20s%20s%n"+ut.RESET, "CANT.", "DESCRIPCIÓN", "PRECIO UNITARIO", "IMPORTE");
         System.out.printf("%-30s%-50s%-20s%20s%n", "1", "Talla pequeña traje de luces en rojo", "100,000", "100,000");
+        System.out.printf("%-30s%-50s%-20s%20s%n", "2", "Mui grande churrolito", "25.00", "50.00");
+        System.out.printf("%-30s%-50s%-20s%20s%n", "3", "Equipaje de Fútbol", "5.00", "15.00");
+        System.out.printf("%n");
+
+        System.out.printf("%-30s%-50s%-20s%20s%n", "", "", "Subtotal", "165,00");
+        System.out.printf("%-30s%-50s%-20s%20s%n", "", "", "IVA 21.0%", "34,65");
+
+  
 
     }
 }
