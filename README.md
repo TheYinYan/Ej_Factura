@@ -1,3 +1,3 @@
 ## Ejercicio Factura 
 
-![Imagen](/imangen/FActura.png)
+![Imagen](imangen/FActura.png)
